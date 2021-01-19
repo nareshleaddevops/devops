@@ -1,4 +1,4 @@
-Jenkins Master agent configuration Setup
+Jenkins Master agent configuration Setup - try it out
 
 on Jenkins UI ( master )
 
